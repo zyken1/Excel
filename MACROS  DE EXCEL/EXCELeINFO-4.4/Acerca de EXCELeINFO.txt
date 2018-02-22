@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------------------
+EXCELeINFO add-in 4.4 (enero 12, 2018)
+
+2010-2018,  MVP Sergio Alejandro Campos
+
+EXCELeINFO es compatible con Excel 2007 en adelante.
+---------------------------------------------------------------------------------------
+
+Contacto:
+http://addin.exceleinfo.com
+http://www.exceleinfo.com
+https://www.youtube.com/sergioacamposh
+https://www.facebook.com/EXCELeINFO/
+@EXCELeINFO
+
+Aprende a instalar EXCELeINFO add-in: https://www.youtube.com/watch?v=yJ_4u9ESUrE&feature=youtu.be
+
+Nota: Si EXCELeINFO add-in se deja de mostrar cada que se cierra Excel, revisa este video: https://www.youtube.com/watch?v=gyRLPbLrMkE
